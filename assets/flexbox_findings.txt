@@ -1,0 +1,3 @@
+For changing the order of items when the window is resized, I used the Flexbox order property. Inside the tablet media query, I assigned different order values to the items in Row 5 so that their visual sequence changes at the tablet breakpoint without modifying the HTML structure.
+
+For my unique Row 6 layout, I created a five-item row using Flexbox. I set the flex-basis of each .col-5 item to 16%, which allows five items to fit on a single row at desktop size and provides a different layout from the other rows as required.
